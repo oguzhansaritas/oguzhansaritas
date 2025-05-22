@@ -112,6 +112,4 @@ Senior Software Engineer with over 10 years of hands-on development and 5+ years
 ---
 
 ## 📝 Latest Blog Posts  
-- [Placeholder Post Title 1](#)  
-- [Placeholder Post Title 2](#)  
-- [Placeholder Post Title 3](#)  
+
