@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/oguzhansaritas.png" width="120" alt="Profile Picture" />
   <h1>OĞUZHAN SARITAŞ</h1>
-  <p><strong>Senior Software Engineer | Full-Stack Software Engineer | Team Lead | Innovation Mentor | ISO/EIC 27001 Auditor </strong></p>
+  <p><strong>Senior Software Engineer | Full-Stack Software Engineer | Team Lead | Innovation Mentor | ISO/EIC 27001 Auditor</strong></p>
   <p>
     ✉️ <a href="mailto:info@oguzhansaritas.com">info@oguzhansaritas.com</a> •
     🔗 <a href="https://linkedin.com/in/legastive">LinkedIn</a> •
@@ -16,10 +16,10 @@
 ---
 
 ## 👨‍💻 About Me  
-Senior Software Engineer with over 10 years of hands-on development and 5 + years leading full software lifecycles across web, mobile, embedded and AI/ML domains.  
-- Started in 2012 as a front-end developer with PHP & JavaScript; transitioned to .NET (ASP.NET MVC, C#) in 2014 during my engineering studies :contentReference[oaicite:0]{index=0}  
-- From 2016, architected and delivered React.js & React Native applications; by 2018 led teams building cross-platform solutions (Node.js, Swift/Objective-C, Java/Kotlin) :contentReference[oaicite:1]{index=1}  
-- Since 2024, focusing on Python-based machine learning, deep learning and data analytics; certified in Agile/Scrum and ISO/EIC 27001 :contentReference[oaicite:2]{index=2}  
+Senior Software Engineer with over 10 years of hands-on development and 5+ years leading full software lifecycles across web, mobile, embedded and AI/ML domains.  
+- Started in 2012 as a front-end developer with PHP & JavaScript; transitioned to .NET (ASP.NET MVC, C#) in 2014 during my engineering studies  
+- From 2016, architected and delivered React.js & React Native applications; by 2018 led teams building cross-platform solutions (Node.js, Swift/Objective-C, Java/Kotlin)  
+- Since 2024, focusing on Python-based machine learning, deep learning and data analytics; certified in Agile/Scrum and ISO/EIC 27001. 
 
 ---
 
@@ -56,20 +56,20 @@ Senior Software Engineer with over 10 years of hands-on development and 5 + year
 ---
 
 ## 💼 Experience Highlights  
-- **Senior Software Engineer & Co-Founder & Team Lead** @ Car4Future Technologies (Jun 2018 – Present)  
-  – Built a cloud-enabled web/mobile energy-sharing platform for EV charging; architected PCB & firmware; scaled to 1 000+ concurrent users with <1% error rate :contentReference[oaicite:3]{index=3}  
+- **Senior Software Engineer & Team Lead & Co-Founder ** @ Car4Future Technologies (Jun 2018 – Present)  
+  – Built a cloud-enabled web/mobile energy-sharing platform for EV charging; architected PCB & firmware; scaled to 1 000+ concurrent users with <1% error rate  
 - **Full-Stack Software Developer** @ Glocalzone (Jul 2017 – May 2018)  
-  – Delivered cross-border procurement platform (React.js, RN, Node.js, GraphQL); ensured 99% flawless orders across 100+ concurrent transactions :contentReference[oaicite:4]{index=4}  
+  – Delivered cross-border procurement platform (React.js, RN, Node.js, GraphQL); ensured 99% flawless orders across 100+ concurrent transactions  
 - **Full-Stack Software Developer** @ Izmir University of Economics (Nov 2016 – Jun 2017)  
-  – Migrated student management APIs; ensured 100% uptime for 5 000+ users during academic term :contentReference[oaicite:5]{index=5}  
+  – Migrated student management APIs; ensured 100% uptime for 5 000+ users during academic term  
 - **Full-Stack Software Developer** @ AN Software Agency (Sep 2014 – Sep 2016)  
-  – Delivered .NET MVC & Web API solutions; integrated mobile CRM & ERP for 1 000+ products; automated validations for 500+ users :contentReference[oaicite:6]{index=6}  
+  – Delivered .NET MVC & Web API solutions; integrated mobile CRM & ERP for 1 000+ products; automated validations for 500+ users  
 
 ---
 
 ## 🎓 Education & Certifications  
 **B.Eng. Software Engineering**, Izmir University of Economics (2020)  
-**Certifications:** ISO/EIC 27001 ISMS, Innovation Mentor (Kobimen), AWS Certified Cloud Practitioner, Google Cloud Certified, various advanced Udemy courses :contentReference[oaicite:7]{index=7}  
+**Certifications:** ISO/EIC 27001 ISMS, Innovation Mentor (Kobimen), AWS Certified Cloud Practitioner , Google Cloud Certified , various advanced Udemy courses  
 
 ---
 
