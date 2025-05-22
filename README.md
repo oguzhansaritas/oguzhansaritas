@@ -13,15 +13,24 @@
 </div>
 
 ---
-
 ## 🛠 Technologies & Tools
 
 <div align="center">
-  <code>ASP.NET MVC</code> • <code>C#</code> • <code>Entity Framework</code> •
-  <code>JavaScript</code> • <code>TypeScript</code> • <code>React</code> • <code>React Native</code> •
-  <code>Node.js</code> • <code>Express</code> • <code>AWS</code> • <code>Firebase</code> •
-  <code>Docker</code> • <code>Kubernetes</code> • <code>SQL Server</code> • <code>Firestore</code> •
-  <code>Java</code> • <code>Kotlin</code> • <code>Swift</code>
+  <code>JavaScript</code> • <code>TypeScript</code> • <code>C#</code> • <code>Objective-C</code> • <code>Swift</code> • 
+  <code>Java</code> • <code>Kotlin</code> • <code>C/C++</code> • <code>Python (Pandas, TensorFlow)</code> • 
+  <code>React.js</code> • <code>React Native</code> • <code>Angular</code> • <code>Node.js</code> • <code>Express.js</code> • 
+  <code>ASP.NET MVC</code> • <code>Web API</code> • <code>SwiftUI</code> • <code>Jetpack Compose</code> • 
+  <code>AWS (Lambda, API Gateway, DynamoDB)</code> • <code>GCP</code> • <code>Docker</code> • <code>Kubernetes</code> • 
+  <code>Terraform</code> • <code>CI/CD</code> • <code>Fastlane</code> • <code>Machine Learning</code> • 
+  <code>Deep Learning</code> • <code>Data Processing</code> • <code>Scikit-learn</code> • <code>PyTorch</code> • 
+  <code>Microservices</code> • <code>Serverless</code> • <code>Clean Architecture</code> • <code>MVC</code> • 
+  <code>MVVM</code> • <code>VIPER</code> • <code>Design Patterns</code> • <code>OOP</code> • <code>TDD</code> • 
+  <code>Unit & Integration Testing</code> • <code>SonarQube</code> • <code>OAuth2</code> • <code>JWT</code> • 
+  <code>HTTPS</code> • <code>OWASP Standards</code> • <code>SQL (MSSQL, MySQL)</code> • <code>NoSQL (MongoDB, Firebase)</code> • 
+  <code>Redis</code> • <code>Git</code> • <code>GitHub</code> • <code>GitLab</code> • <code>Bitbucket</code> • <code>TFS</code> • 
+  <code>Agile & Scrum</code> • <code>Kanban</code> • <code>JIRA</code> • <code>Trello</code> • 
+  <code>Technical Mentoring</code> • <code>Sprint Planning</code> • <code>SDLC Ownership</code> • 
+  <code>Cross-Team Communication</code>
 </div>
 
 ---
