@@ -94,9 +94,24 @@ Senior Software Engineer with over 10 years of hands-on development and 5+ years
 **Certifications:** ISO/EIC 27001 ISMS, Innovation Mentor (Kobimen), AWS Certified Cloud Practitioner , Google Cloud Certified , various advanced Udemy courses  
 
 ---
-
-## 📊 GitHub Stats  
+## 📈 More Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oguzhansaritas&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhansaritas&layout=compact&theme=dark" alt="Top Languages" />
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oguzhansaritas&theme=dark" alt="GitHub Streak" />
+  <!-- Visitor Count -->
+  ![Visitor Count](https://profile-counter.glitch.me/oguzhansaritas/count.svg)
+  <!-- WakaTime Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=oguzhansaritas&theme=dark" alt="WakaTime Stats" />
+  <!-- Sponsor Badge -->
+  [![Buy Me a Coffee](https://img.shields.io/badge/☕️-Buy%20Me%20a%20Coffee-ffdd00)](https://buymeacoffee.com/oguzhansaritas)
 </div>
+
+---
+
+## 📝 Latest Blog Posts  
+- [Placeholder Post Title 1](#)  
+- [Placeholder Post Title 2](#)  
+- [Placeholder Post Title 3](#)  
